@@ -12,9 +12,9 @@ Si falta alguno, agregue la fila. Si uno está vacío o ya no se usa, indíquelo
 
 | Component / Componente | Repository / Repositorio | Status / Estado | Access for `ariel5253` / Acceso de `ariel5253` | Branch / Rama | Tag | Commit of tag / Commit del tag | Main version ZIP / ZIP versión main | Full export ZIP / ZIP completo |
 |---|---|---|---|---|---|---|---|---|
-| Backend | [STIVENPM/backend](https://github.com/STIVENPM/backend) | Public / Público | **Add / Agregar** | `main` | `final-delivery-2026` | `ca87189c4832df4b48c30af1d29901a92dd4f80c` | `backend-final-delivery-2026-main.zip` — download link pending Release / enlace pendiente | `backend-full-export.zip` — download link pending Release / enlace pendiente |
-| Web frontend | [Santiag077127/Frontend-lavarapido](https://github.com/Santiag077127/Frontend-lavarapido) | Public / Público | **Add / Agregar** | `main` | `final-delivery-2026` | `c0aabf75afb3e3b55c9ae5ea34095424700d8838` | `Frontend-lavarapido-final-delivery-2026-main.zip` — download link pending Release / enlace pendiente | `Frontend-lavarapido-full-export.zip` — download link pending Release / enlace pendiente |
-| Database / Base de datos | [Santiag077127/lavarapido-base-datos](https://github.com/Santiag077127/lavarapido-base-datos) | Public / Público | **Add / Agregar** | `main` | `final-delivery-2026` | `e8f64dd0a3d6ad522bf9429bfe2ca89321b18ea7` | `lavarapido-base-datos-final-delivery-2026-main.zip` — download link pending Release / enlace pendiente | `lavarapido-base-datos-full-export.zip` — download link pending Release / enlace pendiente |
+| Backend | [STIVENPM/backend](https://github.com/STIVENPM/backend) | Public / Público | **Add / Agregar** | `main` | `final-delivery-2026` | `ca87189c4832df4b48c30af1d29901a92dd4f80c` | `backend-final-delivery-2026-main.zip` — [Download / Descargar](https://github.com/Santiag077127/ADSO-3145555/releases/download/final-delivery/backend-final-delivery-2026-main.zip) | `backend-full-export.zip` — [Download / Descargar](https://github.com/Santiag077127/ADSO-3145555/releases/download/final-delivery/backend-full-export.zip) |
+| Web frontend | [Santiag077127/Frontend-lavarapido](https://github.com/Santiag077127/Frontend-lavarapido) | Public / Público | **Add / Agregar** | `main` | `final-delivery-2026` | `c0aabf75afb3e3b55c9ae5ea34095424700d8838` | `Frontend-lavarapido-final-delivery-2026-main.zip` — [Download / Descargar](https://github.com/Santiag077127/ADSO-3145555/releases/download/final-delivery/Frontend-lavarapido-final-delivery-2026-main.zip) | `Frontend-lavarapido-full-export.zip` — [Download / Descargar](https://github.com/Santiag077127/ADSO-3145555/releases/download/final-delivery/Frontend-lavarapido-full-export.zip) |
+| Database / Base de datos | [Santiag077127/lavarapido-base-datos](https://github.com/Santiag077127/lavarapido-base-datos) | Public / Público | **Add / Agregar** | `main` | `final-delivery-2026` | `e8f64dd0a3d6ad522bf9429bfe2ca89321b18ea7` | `lavarapido-base-datos-final-delivery-2026-main.zip` — [Download / Descargar](https://github.com/Santiag077127/ADSO-3145555/releases/download/final-delivery/lavarapido-base-datos-final-delivery-2026-main.zip) | `lavarapido-base-datos-full-export.zip` — [Download / Descargar](https://github.com/Santiag077127/ADSO-3145555/releases/download/final-delivery/lavarapido-base-datos-full-export.zip) |
 
 Before making a repository public, remove `.env` files and change any password, token or key that was ever committed.
 
@@ -37,7 +37,7 @@ The ZIP files do not go in this folder. They are attached to a GitHub Release in
 
 Los ZIP no van en esta carpeta. Se adjuntan a un Release de GitHub llamado `final-delivery` en el fork de quien entrega, y se enlazan en la tabla de arriba.
 
-The `final-delivery` Release has not been created yet. The ZIP names are recorded for identification; download links will be added after the Release exists. / El Release `final-delivery` aún no se ha creado. Se registran los nombres de los ZIP para identificarlos; los enlaces de descarga se agregarán cuando exista el Release.
+The `final-delivery` Release is published. The six ZIP files are attached there and linked in the table above. / El Release `final-delivery` está publicado. Los seis archivos ZIP están adjuntos allí y enlazados en la tabla anterior.
 
 ## Integrity / Integridad
 
