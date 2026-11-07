@@ -14,8 +14,8 @@ Final delivery of the training project / Entrega final del proyecto formativo.
 | Process / Proceso | Completion of the technologist taught stage / Finalización de la etapa lectiva del tecnólogo |
 | Research seedbed / Semillero de investigación | Developers & Geeks |
 | Delivery version / Versión entregada | `final-delivery-2026` |
-| Delivery date / Fecha de entrega | Pending confirmation / Pendiente de confirmación |
-| Delivered by / Entregado por | Pending confirmation / Pendiente de confirmación |
+| Delivery date / Fecha de entrega | Initial delivery: 4 November 2026 / Entrega inicial: 4 de noviembre de 2026 |
+| Delivered by / Entregado por | Santiago Gordo Pérez and José Stiven Perdomo Martínez / Santiago Gordo Pérez y José Stiven Perdomo Martínez |
 
 ## Summary / Resumen
 
@@ -34,8 +34,8 @@ Final delivery of the training project / Entrega final del proyecto formativo.
 
 | Full name / Nombre completo | Doc. type / Tipo | Doc. number / Número | Ficha | GitHub user / Usuario | Role / Rol | Verified and authorized / Verificado y autorizado |
 |---|---|---|---|---|---|---|
-| SANTIAGO GORDO PEREZ | CC | 1075236732 | 3145555 | Santiag077127 | | ☐ |
-| JOSE STIVEN PERDOMO MARTINEZ | CC | 1075793962 | 3145555 | STIVENPM | | ☐ |
+| SANTIAGO GORDO PEREZ | CC | 1075236732 | 3145555 | Santiag077127 | | ☒ |
+| JOSE STIVEN PERDOMO MARTINEZ | CC | 1075793962 | 3145555 | STIVENPM | | ☒ |
 
 Data use authorization: by checking the box, the member confirms their data and authorizes publishing their name, document number and ficha in this public repository, for the software registration process (Ley 1581 de 2012). Anyone who does not authorize it tells the instructor before delivering.
 
@@ -45,21 +45,21 @@ Autorización de datos: al marcar la casilla, el integrante confirma sus datos y
 
 | Folder / Carpeta | Content / Contenido | Done / Listo |
 |---|---|---|
-| [`01-requirements-specification/`](01-requirements-specification/) | Requirements specification / Especificación de requisitos | ☐ |
-| [`02-software-analysis/`](02-software-analysis/) | Software analysis / Análisis del software | ☐ |
-| [`03-technical-proposal/`](03-technical-proposal/) | Technical proposal / Propuesta técnica | ☐ |
-| [`04-software-design/`](04-software-design/) | Software design / Diseño del software | ☐ |
-| [`05-test-documentation/`](05-test-documentation/) | Test documentation / Documentación de pruebas | ☐ |
-| [`06-implementation-procedure/`](06-implementation-procedure/) | Implementation procedure / Procedimiento de implementación | ☐ |
-| [`07-improvement-actions/`](07-improvement-actions/) | Improvement actions / Acciones de mejoramiento | ☐ |
-| [`08-manuals/`](08-manuals/) | Manuals / Manuales | ☐ |
-| [`09-project-article/`](09-project-article/) | Project article / Artículo del proyecto | ☐ |
-| [`10-videos/`](10-videos/) | Videos / Videos | ☐ |
-| [`code-tag/`](code-tag/) | Repository links, tags and ZIP files / Enlaces, tags y ZIP | ☐ |
-| [`team-roster.md`](team-roster.md) | Team and roles / Equipo y roles | ☐ |
-| [`software-registration.md`](software-registration.md) | Software registration data / Datos para registro de software | ☐ |
+| [`01-requirements-specification/`](01-requirements-specification/) | Requirements specification / Especificación de requisitos | ☒ |
+| [`02-software-analysis/`](02-software-analysis/) | Software analysis / Análisis del software | ☒ |
+| [`03-technical-proposal/`](03-technical-proposal/) | Technical proposal / Propuesta técnica | ☒ |
+| [`04-software-design/`](04-software-design/) | Software design / Diseño del software | ☒ |
+| [`05-test-documentation/`](05-test-documentation/) | Test documentation / Documentación de pruebas | ☒ |
+| [`06-implementation-procedure/`](06-implementation-procedure/) | Implementation procedure / Procedimiento de implementación | ☒ |
+| [`07-improvement-actions/`](07-improvement-actions/) | Improvement actions / Acciones de mejoramiento | ☒ |
+| [`08-manuals/`](08-manuals/) | Manuals / Manuales | ☒ |
+| [`09-project-article/`](09-project-article/) | Project article / Artículo del proyecto | ☒ |
+| [`10-videos/`](10-videos/) | Videos / Videos | ☒ |
+| [`code-tag/`](code-tag/) | Repository links, tags and ZIP files / Enlaces, tags y ZIP | ☒ |
+| [`team-roster.md`](team-roster.md) | Team and roles / Equipo y roles | ☒ |
+| [`software-registration.md`](software-registration.md) | Software registration data / Datos para registro de software | ☒ |
 
-The nine academic PDFs are present in their respective folders in the local clone. Their content and privacy review is pending, so the delivery boxes above remain unchecked. / Los nueve PDF académicos están presentes en sus respectivas carpetas del clon local. La revisión de contenido y privacidad está pendiente, por eso las casillas de entrega siguen sin marcar.
+The academic PDF documents have been uploaded to the project's final delivery branch on GitHub. The delivery contents listed above are included in the project submission. / Los documentos académicos en PDF fueron subidos a la rama de entrega final del proyecto en GitHub. Los elementos relacionados anteriormente forman parte de la entrega.
 
 ## Large files on Google Drive / Archivos pesados en Google Drive
 

@@ -40,8 +40,8 @@ The contribution fields that have no verified individual attribution remain pend
 | EDDIER YAIR LIBERATO CUENCA | | Kept privately / En custodia | | Instructor: see `team-roster.md` / ver `team-roster.md` |
 | JHON WILLIAN CORREDOR ARAUJO | | Kept privately / En custodia | | Instructor: see `team-roster.md` / ver `team-roster.md` |
 | ANDRES MORENO COLLAZOS | | Kept privately / En custodia | | Instructor: see `team-roster.md` / ver `team-roster.md` |
-| SANTIAGO GORDO PEREZ | CC | 1075236732 | 3145555 | |
-| JOSE STIVEN PERDOMO MARTINEZ | CC | 1075793962 | 3145555 | |
+| SANTIAGO GORDO PEREZ | CC | 1075236732 | 3145555 |  Participación equitativa en backend con Java y Spring Boot; frontend web con React y móvil con React Native; PostgreSQL y migraciones con Liquibase; integración, pruebas, corrección de errores y mejoramiento del software. / Equal contribution to the backend with Java and Spring Boot; web frontend with React and mobile app with React Native; PostgreSQL and Liquibase migrations; integration, testing, bug fixes and software improvement. |
+| JOSE STIVEN PERDOMO MARTINEZ | CC | 1075793962 | 3145555 |  Participación equitativa en backend con Java y Spring Boot; frontend web con React y móvil con React Native; PostgreSQL y migraciones con Liquibase; integración, pruebas, corrección de errores y mejoramiento del software. / Equal contribution to the backend with Java and Spring Boot; web frontend with React and mobile app with React Native; PostgreSQL and Liquibase migrations; integration, testing, bug fixes and software improvement. |
 
 ## 3. Producer / Productor (art. 5, num. 3)
 
@@ -80,17 +80,17 @@ The rights-holder listing and the prefilled statement about acquisition of right
 
 | Declaration / Declaración | Option / Opción |
 |---|---|
-| Origin / Origen | ☐ Original ☐ Derived work / Obra derivada |
-| If derived, base work / Si es derivada, obra de base | |
-| Type of work / Clase de obra | ☐ Individual ☐ In collaboration / En colaboración ☐ Collective / Colectiva ☐ Anonymous / Anónima ☐ Pseudonymous / Seudónima ☐ Posthumous / Póstuma |
-| Publication / Publicación | ☐ Unpublished / Inédita ☐ Published / Publicada |
-| If published, date and place / Si está publicada, fecha y lugar | |
+| Origin / Origen | ☒ Original ☐ Derived work / Obra derivada |
+| If derived, base work / Si es derivada, obra de base | Not applicable / No aplica |
+| Type of work / Clase de obra | ☐ Individual ☒ In collaboration / En colaboración ☐ Collective / Colectiva ☐ Anonymous / Anónima ☐ Pseudonymous / Seudónima ☐ Posthumous / Póstuma |
+| Publication / Publicación | ☐ Unpublished / Inédita ☒ Published / Publicada |
+| If published, date and place / Si está publicada, fecha y lugar | Date / Fecha: Pending confirmation / Pendiente de confirmación. Place / Lugar: GitHub — https://github.com/STIVENPM/backend; https://github.com/Santiag077127/Frontend-lavarapido; https://github.com/Santiag077127/lavarapido-base-datos |
 
 Software is treated as unpublished unless the rights holder states otherwise (art. 4). A public repository may count as publication: the team records it here, and the Centro decides the final declaration.
 
 El software se considera inédito salvo manifestación del titular (art. 4). Un repositorio público puede contar como publicación: el equipo lo deja anotado aquí y el Centro define la declaración final.
 
-The origin, work type, publication status, and any publication date/place in this section remain pending confirmation by the rights holders and the lead instructor. Leave the declaration boxes unchecked until they confirm. / El origen, clase de obra, estado de publicación y cualquier fecha/lugar de publicación de esta sección quedan pendientes de confirmación de los titulares y del instructor líder. Deje las casillas sin marcar hasta que ellos confirmen.
+The origin, work type and publication status above reflect the confirmations of the two apprentices. The first public publication date remains pending confirmation because the available GitHub evidence does not establish when the repositories first became public. / El origen, clase de obra y estado de publicación anteriores reflejan las confirmaciones de los dos aprendices. La fecha de primera publicación pública queda pendiente, porque la evidencia disponible de GitHub no establece cuándo se hicieron públicos los repositorios.
 
 ## 7. Elements attached / Elementos que se adjuntan (art. 2, 3 y 6)
 
